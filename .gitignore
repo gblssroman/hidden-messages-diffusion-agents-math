@@ -1,0 +1,4 @@
+*.pdf
+
+# Local dLLM checkout; installed with uv as an editable dependency.
+/code/third_party/dllm/
